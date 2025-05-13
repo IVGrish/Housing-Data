@@ -18,4 +18,6 @@ This SQL script performs a comprehensive data cleaning process on the *Nashville
     * Identify and remove exact duplicates using a ROW_NUMBER() CTE.
 
 + ##### Dropping Unused Columns
-    * Remove columns no longer needed after cleaning: *OwnerAddress*, *TaxDistrict*, *PropertyAddress* and *SaleDate*.
+    * Remove columns no longer needed after cleaning: *OwnerAddress*, *TaxDistrict*, *PropertyAddress* and *SaleDate*.<br><br>
+
+**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
