@@ -20,4 +20,4 @@ This SQL script performs a comprehensive data cleaning process on the *Nashville
 + ##### Dropping Unused Columns
     * Remove columns no longer needed after cleaning: *OwnerAddress*, *TaxDistrict*, *PropertyAddress* and *SaleDate*.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
